@@ -1,0 +1,30 @@
+[
+   {  
+    "name": "Liberia",
+    "capital": "Monrovia"
+   },
+   {
+    "name": "Gambia",
+    "capital": "Banjul"   
+   },
+   {
+    "name": "Ghana",
+    "capital": "Accra"   
+   },
+   {
+    "name": "Nigeria",
+    "capital": "Abuja"   
+   },
+   {
+    "name": "Haiti",
+    "capital": "Port-au-Prince"   
+   },
+   {
+    "name": "Rwanda",
+    "capital": "Kigali"   
+   },
+   {
+    "name": "Madagascar",
+    "capital": "Antananarivo"   
+   }
+]
