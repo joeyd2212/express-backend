@@ -22,14 +22,14 @@ app.use(cors())
 
 
 app.get("/",(req, res) =>{
-    res.send("Your Local Host is Working!")
+    res.send("This host is working!")
 })
 
 app.use("/api/country",require("./db/routes/countryroute"));
 
 
 
-const PORT = process.env.PORT || 3001
+// const PORT = process.env.PORT || 3001
 
-//app is listening if the port gets a request
-app.listen(PORT,() => console.info(`Running on ${PORT}`))
+// //app is listening if the port gets a request
+// app.listen(PORT,() => console.info(`Running on ${PORT}`))
